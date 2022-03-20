@@ -26,19 +26,19 @@ canvas {
 .header1 {
     font-family: righteous, cursive;
     font-size:6vw;
-    color:#cf985c;
+    color:#8B008B	;
 }
 
 .header2 {
     font-family: ubuntu mono, monospace;
     font-size: 1.4vw;
-    color: #cf985c;
+    color: #8B008B	;
 }
 
 .header3 {
     font-family: ubuntu mono, monospace;
     font-size: 2.2vw ;
-    color: #cf985c;
+    color: #8B008B	;
 }
 
 .link1 {
@@ -47,7 +47,7 @@ canvas {
     color: inherit;
     margin: 0 5px;
     transition: .5s;
-    color: #cf985c;
+    color: #8B008B;
 }
 
 .link1:hover {
