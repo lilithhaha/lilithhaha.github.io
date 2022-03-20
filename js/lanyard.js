@@ -44,5 +44,5 @@ function update_presence() {
     var id = `${api.d.discord_user.id.split("(")[0]}`;
     var pp = `${api.d.discord_user.avatar.split("(")[0]}`;
     var link = "https://cdn.discordapp.com/avatars/" + id + "/" + pp + ".png?size=4096";
-    $('img').attr('src', link);
+    //$('img').attr('src', link);
 }
